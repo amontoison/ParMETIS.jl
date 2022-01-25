@@ -1,7 +1,7 @@
 ```@meta
-CurrentModule = JSOTemplate
+CurrentModule = ParMETIS
 ```
 
-# JSOTemplate
+# ParMETIS
 
-Documentation for [JSOTemplate](https://github.com/JuliaSmoothOptimizers/JSOTemplate.jl).
+Documentation for [ParMETIS](https://github.com/JuliaSmoothOptimizers/ParMETIS.jl).

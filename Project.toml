@@ -1,5 +1,5 @@
-name = "JSOTemplate"
-uuid = "adf32eb0-fe7e-47bb-93e4-fe96e72f6839"
+name = "ParMETIS"
+uuid = "cbb674b7-49ff-4c21-8a97-68bdd8bf5d23"
 authors = ["Abel Soares Siqueira <abel.s.siqueira@gmail.com> and contributors"]
 version = "0.1.0"
 

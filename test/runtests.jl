@@ -1,6 +1,6 @@
-using JSOTemplate
+using ParMETIS
 using Test
 
-@testset "JSOTemplate.jl" begin
+@testset "ParMETIS.jl" begin
   # Write your tests here.
 end
