@@ -1,0 +1,5 @@
+[general]
+library_name = "libparmetis"
+output_file_path = "../src/parmetis_h.jl"
+module_name = "ParMETIS"
+jll_pkg_name = "PARMETIS_jll"

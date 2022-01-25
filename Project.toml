@@ -1,7 +1,11 @@
 name = "ParMETIS"
 uuid = "cbb674b7-49ff-4c21-8a97-68bdd8bf5d23"
-authors = ["Abel Soares Siqueira <abel.s.siqueira@gmail.com> and contributors"]
+authors = ["Alexis Montoison"]
 version = "0.1.0"
+
+[deps]
+PARMETIS_jll = "b247a4be-ddc1-5759-8008-7e02fe3dbdaa"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 
 [compat]
 julia = "1.6"
